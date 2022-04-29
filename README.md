@@ -3,6 +3,7 @@
 
 - 🌱 Learning Java and Javascript (2022)
 - 💕 Passions: Technology & Science | Games | Art 
+- 🏡 Hobbies: Draw, make-up, watch horror gameplays
 - 📚 Goals: Learn news programming language
 - 📫 How to reach me: mayara130605@gmail.com
 
