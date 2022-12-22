@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🌱 Learning Java and Javascript (2022)
+- 🌱 Technician in development system (2022)
 - 💕 Passions: Technology & Science | Games | Art 
 - 🏡 Hobbies: Draw, make-up, watch horror gameplays
-- 📚 Goals: Learn news programming language
+- 📚 Goals: Be a better version of myself
 - 📫 How to reach me: mayara130605@gmail.com
 
 ##
@@ -28,7 +28,6 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="right" height="150"  src="https://i.picasion.com/pic92/9caadf6cffd7ce76a29cb3146fdffcdb.gif">
     
 </div>
   
