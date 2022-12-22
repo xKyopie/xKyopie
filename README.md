@@ -7,11 +7,6 @@
 - 📚 Goals: Be a better version of myself
 - 📫 How to reach me: mayara130605@gmail.com
 
-##
-
-  <div> 
-  <a href="https://api.whatsapp.com/send?phone=5511996829332" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-
   ##
   
 <div align="center">
