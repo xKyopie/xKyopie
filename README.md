@@ -1,19 +1,11 @@
 ### Hi there 👋
 
 
-- 🌱 Technician in development system (2022)
+- 🌱 Technician in development system (2019-2022) and Graduating Software Engineering (1/4)
 - 💕 Passions: Technology & Science | Games | Art 
 - 🏡 Hobbies: Draw, make-up, watch horror gameplays
 - 📚 Goals: Be a better version of myself
 - 📫 How to reach me: mayara130605@gmail.com
-
-  ##
-  
-<div align="center">
-  <a href="https://github.com/xKyopie">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=xKyopie&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKyopie&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
   
   ## 
   
